@@ -6,4 +6,4 @@ la = float(input('Informe a largura do azulejo: '))
 
 qtdd = (ap*lp)/(aa*la)
 
-print(f'É (são) necessário(s) {qtdd:.1f} ajulejo(s).')
+print(f'É (são) necessário(s) {qtdd:.1f} azulejo(s).')
