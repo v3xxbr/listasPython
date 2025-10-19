@@ -1,5 +1,5 @@
 a = int(input('Digite o primeiro número: '))
-b = int(input('Digite o primeiro número: '))
+b = int(input('Digite o segundo número: '))
 div = [a, b]
 
 for h in range(2):
