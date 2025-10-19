@@ -11,4 +11,4 @@ else:
     if(media >=5):
         print(f'Sua média é {media:.2f} ! Você foi aprovado em exame!')
     else:
-        print(f'Sua média é {media:2f} ! Você foi reprovado!')
+        print(f'Sua média é {media:.2f} ! Você foi reprovado!')
