@@ -9,4 +9,5 @@ while c>0 and c<6:
 
     c = int(input('Digite um novo código (0 para sair): '))
 
-print('Obrigado por participar!')
+
+print('O código é inválido, Obrigado por participar!')
