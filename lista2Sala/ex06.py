@@ -10,6 +10,6 @@ if delta<0:
    print('Essa equação não possui números reais.')
 
 else:
-    x1=(b*-1-(math.sqrt(delta)))/2*(a)
-    x2=(b*-1+(math.sqrt(delta)))/2*(a)
+    x1=(b*-1-(math.sqrt(delta)))/(2*a)
+    x2=(b*-1+(math.sqrt(delta)))/(2*a)
     print(f'As raízes são {x1:.2f} e {x2:.2f}')
